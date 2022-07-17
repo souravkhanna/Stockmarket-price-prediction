@@ -2,6 +2,11 @@
 
 Stock Pile Peer is a simple flask application that uses Machine Learning to predict the stock price of a given company
 
+
+![Screenshot 2022-07-17 193249](https://user-images.githubusercontent.com/52581527/179405623-86b59131-342d-4a83-b961-6c929587e4f9.jpg)![Screenshot 2022-07-17 193451](https://user-images.githubusercontent.com/52581527/179405630-007039dd-f21f-4569-8322-f9efb3d43127.jpg)
+
+![Screenshot 2022-07-17 193408](https://user-images.githubusercontent.com/52581527/179405625-909a09b9-bf91-464e-8d87-21cc699f1bd3.jpg)
+
 ## Installation & Usage in local Machine
 
 1. Download the repository in your local machine.
@@ -36,25 +41,10 @@ FutureWarning: pandas.util.testing is deprecated. Use the functions in the publi
    WARNING: This is a development server. Do not use it in a production deployment.
    Use a production WSGI server instead.
  * Debug mode: off
- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/
+
 ```
 5. Open your preferred browser and past the link [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 
-# Please Note: 
- ## I'm still developing the scripts and the app
 
-## Cloud Deployment
-
-I've tried to deploy a lite version of this web app on the google cloud platform for a basic overview and technical know-how.
-
-Feel free to check out the following link:
-    App Url: [https://bit.ly/StockPilePeer](https://bit.ly/StockPilePeer)
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
